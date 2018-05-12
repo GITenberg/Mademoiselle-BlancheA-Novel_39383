@@ -1,0 +1,30 @@
+_repo: Mademoiselle-BlancheA-Novel_39383
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barry, John D. (John Daniel)
+    alias: Barry, John Daniel
+    birthdate: 1866
+    deathdate: 1942
+    gutenberg_agent_id: '1117'
+    url: http://www.gutenberg.org/2009/agents/1117
+description: ''
+gutenberg_issued: '2012-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39383'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'France -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Acrobats -- Fiction'
+- !lcsh 'Circus performers -- Fiction'
+title: 'Mademoiselle Blanche: A Novel'
+url: http://www.gutenberg.org/ebooks/39383
